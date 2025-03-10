@@ -97,3 +97,27 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+Hascorepo iCap (nome interno)
+gps location - latitude e longitude
+plataforma
+3 opções
+	- plataforma (tipo):
+		- Parque (tipo)
+		- Laboratório (tipo)
+		- Localização (latitude e longitude ou localização actual)
+		- fotografia do equipamento (integração da camera do telemovel)
+		- fotografia nr de serie (integração da camera do telemovel)
+	- simulador
+	- detector
+Gerador de QR codes (instruments and detectors)
+Leitura de QR codes
+Questionário dentro da applicação
+Ser puxado localmente na nossa cloud
+UI iCap 3 opções
+- Simulator Instance
+- Detector Instance
+- Actuator Instance
+Consoante a selecção Depois mostrar hierarquia
+Depois de seleccionar a class da hierarquia, permitir registar cada componente
+(api por jwt no React Native)
